@@ -2,7 +2,7 @@
 
 Contributor:
 
-- `<yourname> - <id>`
+- `Rizal Setiono - BE9269500`
 - Bob
 
 
